@@ -5,6 +5,7 @@ Ace of Spades Player Count Statistics, developed and maintained by MooseElkingto
 
 ## Requirements ##
 [Argo](http://argo.sourceforge.net/) - A JSON java library
+
 [Steam Condenser](https://github.com/koraktor/steam-condenser-java) - A Steam querying java library
 
 #### Files ####
